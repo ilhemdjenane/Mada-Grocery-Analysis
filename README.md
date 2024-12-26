@@ -48,6 +48,10 @@ The dataset includes information on product categories, outlet characteristics, 
   - Tier 3 outlets achieved the highest sales ($472.13K), suggesting strong customer loyalty in these areas.
 - **Sales by Establishment Year:**
   - Outlets established after 2010 showed consistent growth, with newer outlets performing well.
+  - Steady Growth: Sales showed consistent growth from 2011 through 2017, indicating stable performance and expansion over time.
+  - Peak in 2018: Outlets established in 2018 recorded the highest total sales ($204.52K), significantly outperforming other years.
+  - Decline in 2020: Sales dropped to $129.10K for outlets established in 2020, potentially due to external factors such as the COVID-19 pandemic impacting grocery shopping behavior.
+  - Recovery in 2022: There was a slight recovery in sales for outlets established in 2022 ($131.48K), showing resilience in more recent years.
 
 ---
 
