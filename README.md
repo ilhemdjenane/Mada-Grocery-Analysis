@@ -1,9 +1,8 @@
-# Mada Groceries Dashboard Analysis
+# Mada Groceries Analysis & Dashboard 
 
 ## Project Overview
 This project showcases a comprehensive analysis of grocery sales data from Mada Groceries, a leading chain in Indonesia. The objective was to design a data-driven
-dashboard to provide actionable insights into sales trends, outlet performance, and customer preferences. The analysis was conducted using Python, 
-and the dashboard was built using Power BI.
+dashboard to provide actionable insights into sales trends, outlet performance, and customer preferences. The analysis and dashboard was built using Power BI.
 
 
 ---
